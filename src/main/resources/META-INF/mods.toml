@@ -1,0 +1,14 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="MIT"
+[[mods]]
+modId="kits_chunky_offline"
+version="2.0.1"
+displayName="Kit's Chunky Offline"
+authors="KitsuyaDev"
+displayURL="https://kitsuya.dev"
+displayTest="IGNORE_ALL_VERSION"
+description="Expands Chunky pregeneration in stages while the server is empty."
+[[mixins]]
+config="kits_chunky_offline.mixins.json"
+

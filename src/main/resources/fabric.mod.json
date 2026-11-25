@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "kits_chunky_offline",
+  "name": "Kit's Chunky Offline",
+  "version": "2.0.1",
+  "authors": ["KitsuyaDev"],
+  "description": "Expands Chunky pregeneration in stages while the server is empty.",
+  "contact": {"homepage": "https://kitsuya.dev", "sources": "https://github.com/KitsuyaDev"},
+  "license": "MIT",
+  "environment": "server",
+  "mixins": ["kits_chunky_offline.mixins.json"]
+}
+

@@ -1,0 +1,693 @@
+[
+  {
+    "minecraft": "26.3",
+    "loader": "fabric",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/86FKD9qx/Chunky-Fabric-1.5.66.jar",
+    "sha512": "6f0323daa69d61bd3b3fbe9d8b713664d9b7c69182183f8dcff6362b43783639778a96e32215dbfd329588f06b60a5d93656dbb1d391c660db203482aa972d5e",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Zns5SSRA/fabric-api-0.166.2%2B26.3.jar",
+    "apiHash": "fb686a9fa923248328107a12498229d6951e316257f18b7d0e4cbd6885ba447ed50a44076a8a5ba47cfe2043b329db3587ab000aeab1face26b2587a5d4ba6b5"
+  },
+  {
+    "minecraft": "26.3",
+    "loader": "forge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/Gzogigfl/Chunky-Forge-1.5.66.jar",
+    "sha512": "fc629ba8aa5c56b39bc05f2e0dc731946f8dc38a779ddb4d0926137d0b7263ca30d880fd6dcb8d321510e2b6272432aeeeb9c5e5f13f9b64a456e89f38f970bf",
+    "loaderVersion": "66.1.9"
+  },
+  {
+    "minecraft": "26.3",
+    "loader": "neoforge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/sDFaDSkE/Chunky-NeoForge-1.5.66.jar",
+    "sha512": "1ec3a20a1338fb3dbfb4c637e2369138e9c5de01e638198c8051c71c86cfdc64ad993cc6e8268beab774969700829efafc8894a6a7656ae4a833e60e05190542",
+    "loaderVersion": "26.3.0.118"
+  },
+  {
+    "minecraft": "26.2",
+    "loader": "fabric",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/86FKD9qx/Chunky-Fabric-1.5.66.jar",
+    "sha512": "6f0323daa69d61bd3b3fbe9d8b713664d9b7c69182183f8dcff6362b43783639778a96e32215dbfd329588f06b60a5d93656dbb1d391c660db203482aa972d5e",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar",
+    "apiHash": "2502fa5ade78e9a120b3747bc1a9a2167d6671743bea45bf115d3174c94121aeda87c549446d1a604a9c11fb828de17a551e3514ce42f3e93069dd14bdaee55b"
+  },
+  {
+    "minecraft": "26.2",
+    "loader": "forge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/Gzogigfl/Chunky-Forge-1.5.66.jar",
+    "sha512": "fc629ba8aa5c56b39bc05f2e0dc731946f8dc38a779ddb4d0926137d0b7263ca30d880fd6dcb8d321510e2b6272432aeeeb9c5e5f13f9b64a456e89f38f970bf",
+    "loaderVersion": "65.1.6"
+  },
+  {
+    "minecraft": "26.2",
+    "loader": "neoforge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/sDFaDSkE/Chunky-NeoForge-1.5.66.jar",
+    "sha512": "1ec3a20a1338fb3dbfb4c637e2369138e9c5de01e638198c8051c71c86cfdc64ad993cc6e8268beab774969700829efafc8894a6a7656ae4a833e60e05190542",
+    "loaderVersion": "26.2.0.95"
+  },
+  {
+    "minecraft": "26.1.2",
+    "loader": "fabric",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/86FKD9qx/Chunky-Fabric-1.5.66.jar",
+    "sha512": "6f0323daa69d61bd3b3fbe9d8b713664d9b7c69182183f8dcff6362b43783639778a96e32215dbfd329588f06b60a5d93656dbb1d391c660db203482aa972d5e",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3dM0X6ou/fabric-api-0.155.3%2B26.1.2.jar",
+    "apiHash": "fa0308b42e9cd0dc3ff946f246d199d74547e0c946d7e3c9780a2537155307baf25129f69bd1349273babf879ffb4608b7e4af0740938f9c0f7b371b1c67d6ca"
+  },
+  {
+    "minecraft": "26.1.2",
+    "loader": "forge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/Gzogigfl/Chunky-Forge-1.5.66.jar",
+    "sha512": "fc629ba8aa5c56b39bc05f2e0dc731946f8dc38a779ddb4d0926137d0b7263ca30d880fd6dcb8d321510e2b6272432aeeeb9c5e5f13f9b64a456e89f38f970bf",
+    "loaderVersion": "64.1.6"
+  },
+  {
+    "minecraft": "26.1.2",
+    "loader": "neoforge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/sDFaDSkE/Chunky-NeoForge-1.5.66.jar",
+    "sha512": "1ec3a20a1338fb3dbfb4c637e2369138e9c5de01e638198c8051c71c86cfdc64ad993cc6e8268beab774969700829efafc8894a6a7656ae4a833e60e05190542",
+    "loaderVersion": "26.1.2.130"
+  },
+  {
+    "minecraft": "26.1.1",
+    "loader": "fabric",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/86FKD9qx/Chunky-Fabric-1.5.66.jar",
+    "sha512": "6f0323daa69d61bd3b3fbe9d8b713664d9b7c69182183f8dcff6362b43783639778a96e32215dbfd329588f06b60a5d93656dbb1d391c660db203482aa972d5e",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3dM0X6ou/fabric-api-0.155.3%2B26.1.2.jar",
+    "apiHash": "fa0308b42e9cd0dc3ff946f246d199d74547e0c946d7e3c9780a2537155307baf25129f69bd1349273babf879ffb4608b7e4af0740938f9c0f7b371b1c67d6ca"
+  },
+  {
+    "minecraft": "26.1.1",
+    "loader": "forge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/Gzogigfl/Chunky-Forge-1.5.66.jar",
+    "sha512": "fc629ba8aa5c56b39bc05f2e0dc731946f8dc38a779ddb4d0926137d0b7263ca30d880fd6dcb8d321510e2b6272432aeeeb9c5e5f13f9b64a456e89f38f970bf",
+    "loaderVersion": "63.0.2"
+  },
+  {
+    "minecraft": "26.1.1",
+    "loader": "neoforge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/sDFaDSkE/Chunky-NeoForge-1.5.66.jar",
+    "sha512": "1ec3a20a1338fb3dbfb4c637e2369138e9c5de01e638198c8051c71c86cfdc64ad993cc6e8268beab774969700829efafc8894a6a7656ae4a833e60e05190542",
+    "loaderVersion": "26.1.1.15-beta"
+  },
+  {
+    "minecraft": "26.1",
+    "loader": "fabric",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/86FKD9qx/Chunky-Fabric-1.5.66.jar",
+    "sha512": "6f0323daa69d61bd3b3fbe9d8b713664d9b7c69182183f8dcff6362b43783639778a96e32215dbfd329588f06b60a5d93656dbb1d391c660db203482aa972d5e",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3dM0X6ou/fabric-api-0.155.3%2B26.1.2.jar",
+    "apiHash": "fa0308b42e9cd0dc3ff946f246d199d74547e0c946d7e3c9780a2537155307baf25129f69bd1349273babf879ffb4608b7e4af0740938f9c0f7b371b1c67d6ca"
+  },
+  {
+    "minecraft": "26.1",
+    "loader": "forge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/Gzogigfl/Chunky-Forge-1.5.66.jar",
+    "sha512": "fc629ba8aa5c56b39bc05f2e0dc731946f8dc38a779ddb4d0926137d0b7263ca30d880fd6dcb8d321510e2b6272432aeeeb9c5e5f13f9b64a456e89f38f970bf",
+    "loaderVersion": "62.0.9"
+  },
+  {
+    "minecraft": "26.1",
+    "loader": "neoforge",
+    "java": 25,
+    "chunky": "1.5.66",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/sDFaDSkE/Chunky-NeoForge-1.5.66.jar",
+    "sha512": "1ec3a20a1338fb3dbfb4c637e2369138e9c5de01e638198c8051c71c86cfdc64ad993cc6e8268beab774969700829efafc8894a6a7656ae4a833e60e05190542",
+    "loaderVersion": "26.1.0.19-beta"
+  },
+  {
+    "minecraft": "1.21.11",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.55",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1CpEkmcD/Chunky-Fabric-1.4.55.jar",
+    "sha512": "3be0e049e3dea6256b395ccb1f7dccc9c6b23cb7b1f6a717a7cd1ca55f9dbda489679df32868c72664ebb28ca05f2c366590d1e1a11f0dc5f69f947903bad833",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+    "apiHash": "852d3682c4f353fd0ca86546af8578513e8bcf628377fa9d49c556bc59c5024c69ab56c92fc6dfba11fed19e4316a3f5636e7e07fd3d96f7043b531aef59b637"
+  },
+  {
+    "minecraft": "1.21.11",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.55",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/X4NI8JRa/Chunky-Forge-1.4.55.jar",
+    "sha512": "74f5d0f1dcbfb9ea949b44bf08a4e3e1229a34775e7b31fcef7df07a4fc3fcaddf6529963c850533637a2a42b83e3d79f2d5480ac0372b21e7cb84d856d76315",
+    "loaderVersion": "61.2.5"
+  },
+  {
+    "minecraft": "1.21.11",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.54",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/gF4bKpRK/Chunky-NeoForge-1.4.54.jar",
+    "sha512": "aa35a6aebf5aeef0fc428e729b607a40e67f413be7c1dc38c7c1f1589c35bdefda57a68627cd80d1967dcb84f6897169982bd80d0ef57a713ae89ad6ff76abb4",
+    "loaderVersion": "21.11.48"
+  },
+  {
+    "minecraft": "1.21.10",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.52",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/F3FNq8Q9/Chunky-Fabric-1.4.52.jar",
+    "sha512": "b269a59126052aaf911f9640d13a95129bd58946f402f1c10614080f4089410c60b1187239f1db6f0a9566dd5b8437f1dcbcfbbbe220effd4f652e5ba46f1e41",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/tV4Gc0Zo/fabric-api-0.138.4%2B1.21.10.jar",
+    "apiHash": "5e64c53391dfd1c059777d671c52be17a4e27a29d9bd7340ea9e3f55ce7a770b38db0a15e0966e981ee8c1b9372fb89543a278521624689268acebb85bd5c6e9"
+  },
+  {
+    "minecraft": "1.21.10",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.52",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/H3srFKFo/Chunky-Forge-1.4.52.jar",
+    "sha512": "1f5d0924e6b9842fcdc75b50fce4466bca8a9216bc0f34e7862a318d578048937f1b084fd55871a7bb1c17ddbf3e3abd3dbb745e0bc6f522c4404f27d0b21619",
+    "loaderVersion": "60.1.18"
+  },
+  {
+    "minecraft": "1.21.10",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.52",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/mPthj92l/Chunky-NeoForge-1.4.52.jar",
+    "sha512": "5a5383596fad49f03cb83c47b42913226fa8020ace2476dc9bce32b93cb9d253e523fd0540d463b875d26b20ddd88c60f4f1a5ce80e1061a4bb1488dc70f34cd",
+    "loaderVersion": "21.10.64"
+  },
+  {
+    "minecraft": "1.21.9",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.52",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/F3FNq8Q9/Chunky-Fabric-1.4.52.jar",
+    "sha512": "b269a59126052aaf911f9640d13a95129bd58946f402f1c10614080f4089410c60b1187239f1db6f0a9566dd5b8437f1dcbcfbbbe220effd4f652e5ba46f1e41",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vczmWJBj/fabric-api-0.134.1%2B1.21.9.jar",
+    "apiHash": "e9e23dfc1bbe27891be06bfb07f1ff0121a0e5e46bbf73910999b119d7eb15ee15be7f5feb926873c38e7a505a7a2cd6f343db672ec5d0e371b26ffe3591dd84"
+  },
+  {
+    "minecraft": "1.21.9",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.52",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/H3srFKFo/Chunky-Forge-1.4.52.jar",
+    "sha512": "1f5d0924e6b9842fcdc75b50fce4466bca8a9216bc0f34e7862a318d578048937f1b084fd55871a7bb1c17ddbf3e3abd3dbb745e0bc6f522c4404f27d0b21619",
+    "loaderVersion": "59.0.5"
+  },
+  {
+    "minecraft": "1.21.9",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.52",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/mPthj92l/Chunky-NeoForge-1.4.52.jar",
+    "sha512": "5a5383596fad49f03cb83c47b42913226fa8020ace2476dc9bce32b93cb9d253e523fd0540d463b875d26b20ddd88c60f4f1a5ce80e1061a4bb1488dc70f34cd",
+    "loaderVersion": "21.9.16-beta"
+  },
+  {
+    "minecraft": "1.21.8",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/inWDi2cf/Chunky-Fabric-1.4.40.jar",
+    "sha512": "9e0386d032641a124fd953a688a48066df7f4ec1186f7f0f8b0a56d49dced220e2d6938ed56e9d8ead78bb80ddb941bc7873f583add8e565bdacdf62e13adc28",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/g58ofrov/fabric-api-0.136.1%2B1.21.8.jar",
+    "apiHash": "eb1a6b5fc9912c68409493f10f43c3b61adda1d789ede9c83b16d0a95a2eb96bd630472866e163960479eb1b4d1196d09ade5aadc9da62624e800640c706c4a9"
+  },
+  {
+    "minecraft": "1.21.8",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/OM6gNvwD/Chunky-Forge-1.4.40.jar",
+    "sha512": "f21b3c0c26484b12c92971c48f56a895679c0fe189c15a77a1b5bfa330c457d3828a40249153d4978d2e8de808ea438d38f4ac2c04a59dc47f719828ccf20af7",
+    "loaderVersion": "58.1.26"
+  },
+  {
+    "minecraft": "1.21.8",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LqL1fnq0/Chunky-NeoForge-1.4.40.jar",
+    "sha512": "493bbf676b93559e8a5745d1a02a0e15bd38f9dc6085fc48a7c04a088a3b167bc0b77ce2ad0d8ecdb028e67c5875207cbf43d898aefbfd2479b3eb0944dcea97",
+    "loaderVersion": "21.8.57"
+  },
+  {
+    "minecraft": "1.21.7",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/inWDi2cf/Chunky-Fabric-1.4.40.jar",
+    "sha512": "9e0386d032641a124fd953a688a48066df7f4ec1186f7f0f8b0a56d49dced220e2d6938ed56e9d8ead78bb80ddb941bc7873f583add8e565bdacdf62e13adc28",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/JntuF9Ul/fabric-api-0.129.0%2B1.21.7.jar",
+    "apiHash": "43bf6af145a6b450503a6d7e7ec9a34912bd1494969b5d8861067f0f846cf710805415fb0fbc93c9ae9f5164d45c7649342f84b4f34552b2abdd892fd3b9838e"
+  },
+  {
+    "minecraft": "1.21.7",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/OM6gNvwD/Chunky-Forge-1.4.40.jar",
+    "sha512": "f21b3c0c26484b12c92971c48f56a895679c0fe189c15a77a1b5bfa330c457d3828a40249153d4978d2e8de808ea438d38f4ac2c04a59dc47f719828ccf20af7",
+    "loaderVersion": "57.0.3"
+  },
+  {
+    "minecraft": "1.21.7",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LqL1fnq0/Chunky-NeoForge-1.4.40.jar",
+    "sha512": "493bbf676b93559e8a5745d1a02a0e15bd38f9dc6085fc48a7c04a088a3b167bc0b77ce2ad0d8ecdb028e67c5875207cbf43d898aefbfd2479b3eb0944dcea97",
+    "loaderVersion": "21.7.25-beta"
+  },
+  {
+    "minecraft": "1.21.6",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/inWDi2cf/Chunky-Fabric-1.4.40.jar",
+    "sha512": "9e0386d032641a124fd953a688a48066df7f4ec1186f7f0f8b0a56d49dced220e2d6938ed56e9d8ead78bb80ddb941bc7873f583add8e565bdacdf62e13adc28",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/F5TVHWcE/fabric-api-0.128.2%2B1.21.6.jar",
+    "apiHash": "b6d0ec0aec40069cb1fa2159c126d027d7f95e3f6260a3e88ebe9c47f3cb716d1170af8e2e4ff3d4108ce5eeaea70002a889547578374d4d6dfa45755e99431e"
+  },
+  {
+    "minecraft": "1.21.6",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/OM6gNvwD/Chunky-Forge-1.4.40.jar",
+    "sha512": "f21b3c0c26484b12c92971c48f56a895679c0fe189c15a77a1b5bfa330c457d3828a40249153d4978d2e8de808ea438d38f4ac2c04a59dc47f719828ccf20af7",
+    "loaderVersion": "56.0.9"
+  },
+  {
+    "minecraft": "1.21.6",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.40",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LqL1fnq0/Chunky-NeoForge-1.4.40.jar",
+    "sha512": "493bbf676b93559e8a5745d1a02a0e15bd38f9dc6085fc48a7c04a088a3b167bc0b77ce2ad0d8ecdb028e67c5875207cbf43d898aefbfd2479b3eb0944dcea97",
+    "loaderVersion": "21.6.20-beta"
+  },
+  {
+    "minecraft": "1.21.5",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.36",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/mhLtMoLk/Chunky-Fabric-1.4.36.jar",
+    "sha512": "65a201c246c95f6189a16e715d944e4a7ca7f44a8c4a39c8e6523d8c58e331d6611c78deff050cb4a2a2d80c5b8d84e3593a9b8ff961f7aee3d171a4ef7af2c7",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar",
+    "apiHash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7"
+  },
+  {
+    "minecraft": "1.21.5",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.36",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/HFzMiXJa/Chunky-Forge-1.4.36.jar",
+    "sha512": "7f56da268ce983526fdfbab31f5831cb9edb7cc91a84cb91867b1b6b0dd85462f6dd3c4613661ed163a6572b66ac8327a3f23024cb5575a3b98e619a59e8a4f5",
+    "loaderVersion": "55.1.18"
+  },
+  {
+    "minecraft": "1.21.5",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.36",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/ZvgU4Pog/Chunky-NeoForge-1.4.36.jar",
+    "sha512": "f5d7db66a7c7a4e300cd9c1af0971d5485846204391df885fe210de24e433658584ce6285d282e44bfdb135f8fbe57c2ff2e768ef423df47001dee8d75d49ba7",
+    "loaderVersion": "21.5.101"
+  },
+  {
+    "minecraft": "1.21.4",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/VkAgASL1/Chunky-Fabric-1.4.27.jar",
+    "sha512": "a89f94947e7c3992e01e46be8967d2a6593334333a546b4fff5fdb02a1f5a6b83c93adc4c72a9b9b1f14f9299efcaa8a5d7f5eeedf3da541c7e72abc5e2724c6",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar",
+    "apiHash": "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7"
+  },
+  {
+    "minecraft": "1.21.4",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/pM2Rdqfa/Chunky-Forge-1.4.27.jar",
+    "sha512": "90f40a0bb2ffa79506a931a60f969a46cd9b5b2d9d176c5f16dd6ede8d1e2701424bd5adb4b742104cddc0c24802adec53f15ef3f28cdead353b1ea180e2a4be",
+    "loaderVersion": "54.1.22"
+  },
+  {
+    "minecraft": "1.21.4",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/D99gXKQD/Chunky-NeoForge-1.4.27.jar",
+    "sha512": "b905fd22ad309fda5e4bdb20ff5dd60bcabfeeb010094134dfa4de3648618f97760ce5103626d1872dd2371df8e11993d3382be94f016e91b99050d6124a6e09",
+    "loaderVersion": "21.4.161"
+  },
+  {
+    "minecraft": "1.21.3",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/VkAgASL1/Chunky-Fabric-1.4.27.jar",
+    "sha512": "a89f94947e7c3992e01e46be8967d2a6593334333a546b4fff5fdb02a1f5a6b83c93adc4c72a9b9b1f14f9299efcaa8a5d7f5eeedf3da541c7e72abc5e2724c6",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/wLq4rGsB/fabric-api-0.114.1%2B1.21.3.jar",
+    "apiHash": "962e64e8418b074ce68809cd38835e99fea3da8dc1b2979a69f10fee047cd3404b2157a8106fa650795d17e0eebfa41a0d21af7ea5a4b9ee3992c57bc3c5d113"
+  },
+  {
+    "minecraft": "1.21.3",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/pM2Rdqfa/Chunky-Forge-1.4.27.jar",
+    "sha512": "90f40a0bb2ffa79506a931a60f969a46cd9b5b2d9d176c5f16dd6ede8d1e2701424bd5adb4b742104cddc0c24802adec53f15ef3f28cdead353b1ea180e2a4be",
+    "loaderVersion": "53.1.16"
+  },
+  {
+    "minecraft": "1.21.3",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/D99gXKQD/Chunky-NeoForge-1.4.27.jar",
+    "sha512": "b905fd22ad309fda5e4bdb20ff5dd60bcabfeeb010094134dfa4de3648618f97760ce5103626d1872dd2371df8e11993d3382be94f016e91b99050d6124a6e09",
+    "loaderVersion": "21.3.100"
+  },
+  {
+    "minecraft": "1.21.2",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/VkAgASL1/Chunky-Fabric-1.4.27.jar",
+    "sha512": "a89f94947e7c3992e01e46be8967d2a6593334333a546b4fff5fdb02a1f5a6b83c93adc4c72a9b9b1f14f9299efcaa8a5d7f5eeedf3da541c7e72abc5e2724c6",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/UEjZZNue/fabric-api-0.106.1%2B1.21.2.jar",
+    "apiHash": "3c9f04933a71aac76bee6a71d3b48325b65896cb2935ed2c6476d0290d4810648b00e0cea856de0b08ab0086f442eb252c7e816381a0198f7a4b54a5472270bf"
+  },
+  {
+    "minecraft": "1.21.2",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/pM2Rdqfa/Chunky-Forge-1.4.27.jar",
+    "sha512": "90f40a0bb2ffa79506a931a60f969a46cd9b5b2d9d176c5f16dd6ede8d1e2701424bd5adb4b742104cddc0c24802adec53f15ef3f28cdead353b1ea180e2a4be",
+    "loaderVersion": null
+  },
+  {
+    "minecraft": "1.21.2",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.27",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/D99gXKQD/Chunky-NeoForge-1.4.27.jar",
+    "sha512": "b905fd22ad309fda5e4bdb20ff5dd60bcabfeeb010094134dfa4de3648618f97760ce5103626d1872dd2371df8e11993d3382be94f016e91b99050d6124a6e09",
+    "loaderVersion": "21.2.1-beta"
+  },
+  {
+    "minecraft": "1.21.1",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.23",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
+    "sha512": "02ca6af1ed31e9ebc51af20948a2afb670fe653c80aaeb990947caf6b655d6ab8eda3f1b64ef478633b67ef5d2fd0d1fe67e2107a4a522ef45fd1f183c9a6c9c",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5SwzqWUu/fabric-api-0.116.18%2B1.21.1.jar",
+    "apiHash": "9f721c253ae2e9823cb548e8ec132c9928f80a65184e9b8dcfc489a8d632df20cbfea1e65ff8a4333bdb295c41fbe2228b43e4d41c7355d42ed4637a785840a1"
+  },
+  {
+    "minecraft": "1.21.1",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.23",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/w5uFKMGk/Chunky-Forge-1.4.23.jar",
+    "sha512": "e722145eee4b2d88d79084d2d8fb8ac20bbffb19ea0e409c3cd7b2cf6a296e586e01642467c0d0933a4b0b6b0e701b305188b85b5b5f42a20caf1c2a6d982580",
+    "loaderVersion": "52.1.21"
+  },
+  {
+    "minecraft": "1.21.1",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.23",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar",
+    "sha512": "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7",
+    "loaderVersion": "21.1.267"
+  },
+  {
+    "minecraft": "1.21",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.23",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
+    "sha512": "02ca6af1ed31e9ebc51af20948a2afb670fe653c80aaeb990947caf6b655d6ab8eda3f1b64ef478633b67ef5d2fd0d1fe67e2107a4a522ef45fd1f183c9a6c9c",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0%2B1.21.jar",
+    "apiHash": "11732c4e36c3909360a24aa42a44da89048706cf10aaafa0404d7153cbc7395ff68a130f7b497828d6932740e004416b692650c3fbcc1f32babd7cb6eb9791d8"
+  },
+  {
+    "minecraft": "1.21",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.23",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/w5uFKMGk/Chunky-Forge-1.4.23.jar",
+    "sha512": "e722145eee4b2d88d79084d2d8fb8ac20bbffb19ea0e409c3cd7b2cf6a296e586e01642467c0d0933a4b0b6b0e701b305188b85b5b5f42a20caf1c2a6d982580",
+    "loaderVersion": "51.0.33"
+  },
+  {
+    "minecraft": "1.21",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.23",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar",
+    "sha512": "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7",
+    "loaderVersion": "21.0.167"
+  },
+  {
+    "minecraft": "1.20.6",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.10",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/ZrmnYk7q/Chunky-1.4.10.jar",
+    "sha512": "abd8c71efc02f65aa894ffec0899cb81381a5461e8aa3d974723eac1b85831fe9d202a200170b4c06ef349cf4773982800f09187dae9555c5d9e1591adf48080",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/ocg4hG3t/fabric-api-0.100.8%2B1.20.6.jar",
+    "apiHash": "414f19f903a093c39006e1919a81bea43c3b6728b88e358dc2611ab44b8087e25abc504c66926f245342fa2a245c07462ed62897f15d6c84006b7acf6214ca46"
+  },
+  {
+    "minecraft": "1.20.6",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.13",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1kvxUrh5/Chunky-1.4.13.jar",
+    "sha512": "8e65c36f64d491df1126e5d689143ee1fb0539f95c0b0efdc4e6272f66a8e947e6311501de792619c85e69ef16eccc99bf5fafe4cc8271278c1a59576d4d82e9",
+    "loaderVersion": "50.2.15"
+  },
+  {
+    "minecraft": "1.20.6",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.10",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/WrsGq1Qf/Chunky-1.4.10.jar",
+    "sha512": "870a8958c362449292426cf47cce312fb30582a9219cd2f9a7d87805b10aa0ae9928c4b9187d54688fa647f4808ca0916b8c88068f46eeaa7372547232191ad7",
+    "loaderVersion": "20.6.144"
+  },
+  {
+    "minecraft": "1.20.5",
+    "loader": "fabric",
+    "java": 21,
+    "chunky": "1.4.10",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/ZrmnYk7q/Chunky-1.4.10.jar",
+    "sha512": "abd8c71efc02f65aa894ffec0899cb81381a5461e8aa3d974723eac1b85831fe9d202a200170b4c06ef349cf4773982800f09187dae9555c5d9e1591adf48080",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/GCdY4I8I/fabric-api-0.97.8%2B1.20.5.jar",
+    "apiHash": "4b52fe9bd5bfd50df610f236b6d2fa08985ab5dee51261397c83413cf42cf4bde05190ba851f5100bae3c43a7e2da9e8d0e708477ad8e30d2f00eb1e2af59cb3"
+  },
+  {
+    "minecraft": "1.20.5",
+    "loader": "forge",
+    "java": 21,
+    "chunky": "1.4.13",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1kvxUrh5/Chunky-1.4.13.jar",
+    "sha512": "8e65c36f64d491df1126e5d689143ee1fb0539f95c0b0efdc4e6272f66a8e947e6311501de792619c85e69ef16eccc99bf5fafe4cc8271278c1a59576d4d82e9",
+    "loaderVersion": null
+  },
+  {
+    "minecraft": "1.20.5",
+    "loader": "neoforge",
+    "java": 21,
+    "chunky": "1.4.10",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/WrsGq1Qf/Chunky-1.4.10.jar",
+    "sha512": "870a8958c362449292426cf47cce312fb30582a9219cd2f9a7d87805b10aa0ae9928c4b9187d54688fa647f4808ca0916b8c88068f46eeaa7372547232191ad7",
+    "loaderVersion": "20.5.21-beta"
+  },
+  {
+    "minecraft": "1.20.4",
+    "loader": "fabric",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar",
+    "sha512": "9dbb82993302a8dfbe6ce1f46a051d72b5ada924424f4e23674ce660d209257584159a33248fa9247793e9ba03d3a117299ce1ff6685f06a7fb87c96504459aa",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BPX6fK06/fabric-api-0.97.3%2B1.20.4.jar",
+    "apiHash": "ea1e47672a1e0fef7fa3fd7f7b396b5a8fb2c46e6ce33dbc4cc2b8d320bc7b775a0de42a478302419c8063c47fbc18bb2ad7551772f54af8059132ac2cb4f108"
+  },
+  {
+    "minecraft": "1.20.4",
+    "loader": "forge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+    "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+    "loaderVersion": "49.2.13"
+  },
+  {
+    "minecraft": "1.20.4",
+    "loader": "neoforge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/aA6rXoNB/Chunky-1.3.146.jar",
+    "sha512": "a8582f978f7a900e3229cd02a196dfc66c5032a18373ed1db1626631c0988fab2ad6f9d166fb890f80a29586933668acddc0afe525d58050cc24f2dd16a167ce",
+    "loaderVersion": "20.4.253"
+  },
+  {
+    "minecraft": "1.20.3",
+    "loader": "fabric",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar",
+    "sha512": "9dbb82993302a8dfbe6ce1f46a051d72b5ada924424f4e23674ce660d209257584159a33248fa9247793e9ba03d3a117299ce1ff6685f06a7fb87c96504459aa",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Yolngp3s/fabric-api-0.91.1%2B1.20.3.jar",
+    "apiHash": "03acb0086fcd89ba1b4f5f069a38318536e0e5aefff9722b0068b0fd09563123bf6493a16f4e6cac2816fccbdfe1c4bdacfe29de5f15603c3b5a15bcc8ef5b6a"
+  },
+  {
+    "minecraft": "1.20.3",
+    "loader": "forge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+    "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+    "loaderVersion": "49.0.2"
+  },
+  {
+    "minecraft": "1.20.3",
+    "loader": "neoforge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/aA6rXoNB/Chunky-1.3.146.jar",
+    "sha512": "a8582f978f7a900e3229cd02a196dfc66c5032a18373ed1db1626631c0988fab2ad6f9d166fb890f80a29586933668acddc0afe525d58050cc24f2dd16a167ce",
+    "loaderVersion": "20.3.8-beta"
+  },
+  {
+    "minecraft": "1.20.2",
+    "loader": "fabric",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar",
+    "sha512": "9dbb82993302a8dfbe6ce1f46a051d72b5ada924424f4e23674ce660d209257584159a33248fa9247793e9ba03d3a117299ce1ff6685f06a7fb87c96504459aa",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/8GVp7wDk/fabric-api-0.91.6%2B1.20.2.jar",
+    "apiHash": "bfa5c6f949cb782ce84de24ad3ef324690fa4f84dea57e4d2f311e1b30b9ed1dac2c17aee25f7a26d0312d808f2ed6a8ab81c79d38dda9774c87c324305cec67"
+  },
+  {
+    "minecraft": "1.20.2",
+    "loader": "forge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+    "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+    "loaderVersion": "48.1.0"
+  },
+  {
+    "minecraft": "1.20.2",
+    "loader": "neoforge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/aA6rXoNB/Chunky-1.3.146.jar",
+    "sha512": "a8582f978f7a900e3229cd02a196dfc66c5032a18373ed1db1626631c0988fab2ad6f9d166fb890f80a29586933668acddc0afe525d58050cc24f2dd16a167ce",
+    "loaderVersion": "20.2.93"
+  },
+  {
+    "minecraft": "1.20.1",
+    "loader": "fabric",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar",
+    "sha512": "9dbb82993302a8dfbe6ce1f46a051d72b5ada924424f4e23674ce660d209257584159a33248fa9247793e9ba03d3a117299ce1ff6685f06a7fb87c96504459aa",
+    "loaderVersion": "0.20.1",
+    "installer": "1.1.2",
+    "api": "https://cdn.modrinth.com/data/P7dR8mSH/versions/rvI2dfzR/fabric-api-0.92.12%2B1.20.1.jar",
+    "apiHash": "de9da2344043b3e9ef9fb7dbfff5f2577b06000c4f73f2a37959a80123141169084cece19133bd299b45feaaa4648bdaca2ea085684888cc8c55cc9134a477ca"
+  },
+  {
+    "minecraft": "1.20.1",
+    "loader": "forge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+    "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+    "loaderVersion": "47.4.29"
+  },
+  {
+    "minecraft": "1.20.1",
+    "loader": "neoforge",
+    "java": 17,
+    "chunky": "1.3.146",
+    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+    "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+    "loaderVersion": "47.1.106",
+    "legacyForge": true
+  }
+]

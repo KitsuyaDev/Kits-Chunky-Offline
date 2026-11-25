@@ -1,0 +1,2 @@
+{"required":false,"minVersion":"0.8","package":"dev.kitsuya.offline.mixin","compatibilityLevel":"JAVA_17","server":["ServerTick","Lifecycle","TaskSave","TaskFailures","Commands","Players"],"injectors":{"defaultRequire":1}}
+

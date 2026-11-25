@@ -1,0 +1,4 @@
+# Preserve the bytes copied directly into the reproducible server JAR.
+/src/main/resources/** -text
+/LICENSE -text
+/dist/*.jar binary
